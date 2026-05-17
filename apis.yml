@@ -6,7 +6,7 @@ description: >-
   States now operate as Linde. The company supplies atmospheric, process, and
   specialty gases, along with related equipment and services to a range of
   industries.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Industrial Gases
