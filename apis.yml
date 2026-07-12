@@ -22,6 +22,8 @@ access: 3rd-Party
 position: Consuming
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/praxair-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/praxairinc
   - type: Website
