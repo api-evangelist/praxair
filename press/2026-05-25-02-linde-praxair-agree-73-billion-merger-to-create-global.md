@@ -1,7 +1,9 @@
 ---
 title: Linde, Praxair agree $73 billion merger to create global ...
 url: https://www.reuters.com/article/business/linde-praxair-agree-73-billion-merger-to-create-global-gases-leader-idUSKBN18S60X/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Praxair" press release artificial intelligence'
 position: 2
 source: serpapi-google

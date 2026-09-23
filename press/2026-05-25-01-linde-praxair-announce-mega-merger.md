@@ -1,7 +1,9 @@
 ---
 title: Linde, Praxair announce mega merger
 url: https://www.hmenews.com/article/linde-praxair-announce-mega-merger
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Praxair" press release artificial intelligence'
 position: 1
 source: serpapi-google

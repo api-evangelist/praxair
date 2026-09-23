@@ -1,7 +1,9 @@
 ---
 title: Linde-Praxair merger could boost Air Products' fortunes, ...
 url: https://www.mcall.com/2016/12/21/linde-praxair-merger-could-boost-air-products-fortunes-analysts-say/
-date: '2026-05-25'
+published: '2016-12-21'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Praxair" press release artificial intelligence'
 position: 3
 source: serpapi-google

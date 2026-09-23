@@ -1,7 +1,9 @@
 ---
 title: Open Markets Institute Reacts to FTC Approval of $80 ...
 url: https://www.openmarketsinstitute.org/publications/open-markets-institute-reacts-ftc-approval-80-billion-linde-praxair-merger
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Praxair" press release artificial intelligence'
 position: 4
 source: serpapi-google
